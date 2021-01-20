@@ -1,0 +1,8 @@
+name: Jail-BeastEd.
+version: ${project.version}
+main: com.github.beastyboo.jailbeasted.application.JailBPlugin
+api-version: 1.15
+depend: [ WorldEdit, WorldGuard, WorldGuardEvents, Vault ]
+authors: [ BeastyBoo ]
+description: A jail plugin
+website: github.com/beastyboo
